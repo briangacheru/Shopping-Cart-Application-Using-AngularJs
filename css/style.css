@@ -1,0 +1,27 @@
+#bg-background{
+	background-color:#fff;
+	padding:10px;
+	border-radius:5px;
+}
+
+#product{
+	padding:5px;
+	clear:both;
+}
+
+#p_list{
+	width:200px;
+	max-width:200px;
+	height:250px;
+	max-height:250px;
+	padding:5px;
+	border:1px solid #000;
+	float:left;
+	margin:15px;
+}
+
+#p_list img{
+	height:150px; 
+	width:150px;
+}
+
